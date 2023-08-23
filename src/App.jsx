@@ -71,7 +71,7 @@ function App() {
           <TimeTrackCard
             image={work}
             track={"Work"}
-            backgroundColor={"hsl(43, 84%, 65%)"}
+            backgroundColor={"hsl(15, 100%, 70%)"}
             hours={selectedHours[0]}
             lastHours={selectedLastHours[0]}
             timeMetric={timeMetric}
