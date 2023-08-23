@@ -1,0 +1,7 @@
+.profileTime {
+    cursor: pointer;
+  
+    &.active {
+      color: white; /* Cambia el color a blanco cuando está seleccionado */
+    }
+  }

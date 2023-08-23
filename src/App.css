@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "light";
+  src: url("../src/assets/font/Rubik-Light.ttf");
+}
+@font-face {
+  font-family: "medium";
+  src: url("../src/assets/font/Rubik-Medium.ttf");
+}
+@font-face {
+  font-family: "regular";
+  src: url("../src/assets/font/Rubik-Regular.ttf");
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  
+  background-color: hsl(226, 43%, 10%);
+  font-family: "light";
+}
+.profileTime:hover {
+  color:white
+}
+
